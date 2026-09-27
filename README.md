@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Alejandro%20Acosta&fontSize=38&fontColor=00f5ff&animation=fadeIn" width="100%" alt="Alejandro Acosta"/>
+<img src="./assets/header.svg" width="100%" alt="Alejandro Acosta — Full Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+NestJS+%26+TypeScript" alt="Full Stack Developer | NestJS and TypeScript"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Building+production+APIs+with+NestJS+%26+TypeScript;GraphQL+%26+REST+%7C+PostgreSQL+%26+microservices;Shipping+software+that+runs+in+production" alt="Role highlights"/>
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://alejandro-acosta-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleacostadev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoav.2905@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://alejandro-acosta-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aleacostadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleacostadev)
+[![Email](https://img.shields.io/badge/Email-alejoav.2905%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoav.2905@gmail.com)
 
-Full Stack · Production APIs · Quito, Ecuador · Remote-friendly
+`Full Stack` `Production APIs` `Quito, EC` `Remote-friendly`
 
 </div>
 
@@ -55,20 +55,17 @@ Full Stack Developer focused on **production backends** with **NestJS** and **Ty
 
 #### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=allett29&show_icons=true&theme=react&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=e6edf3&bg_color=0d1117" height="170" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com/?user=allett29&theme=react&hide_border=true&background=0D1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" height="170" alt="GitHub streak"/>
+<p>
+  <img src="https://img.shields.io/github/followers/allett29?style=for-the-badge&logo=github&label=Followers&labelColor=161b22&color=00f5ff" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20repos&labelColor=161b22&color=8957e5&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fallett29" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/stars/allett29/alejandro-acosta-portfolio?style=for-the-badge&logo=github&label=Portfolio%20stars&labelColor=161b22&color=ff00aa" alt="Portfolio repo stars"/>
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=allett29&theme=dark&hide_border=true&background=0D1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" height="180" alt="Contribution streak"/>
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allett29&layout=compact&theme=react&hide_border=true&title_color=00f5ff&text_color=e6edf3&bg_color=0d1117&langs_count=6" height="170" alt="Top languages"/>
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allett29&bg_color=0d1117&color=00f5ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
-
-<br />
-
-<img src="github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 <br /><br />
 
