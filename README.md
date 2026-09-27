@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Alejandro Acosta — Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,45:161b22,100:ff00aa&height=140&section=header&text=Alejandro%20Acosta&fontSize=42&fontColor=ffffff&stroke=00f5ff&animation=fadeIn" width="100%" alt="Alejandro Acosta"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=Production+APIs+%7C+NestJS+%26+TypeScript+%7C+GraphQL+%26+PostgreSQL" alt="Role highlights"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=Production+APIs+%7C+NestJS+%26+TypeScript+%7C+GraphQL+%26+PostgreSQL" alt="Production APIs, NestJS, TypeScript, GraphQL, PostgreSQL"/>
 
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://alejandro-acosta-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aleacostadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleacostadev)
-[![Email](https://img.shields.io/badge/Email-alejoav.2905%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoav.2905@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleacostadev)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoav.2905@gmail.com)
 
-`Full Stack` `Production APIs` `Quito, EC` `Remote-friendly`
+`Full Stack` · `Production APIs` · `Quito, EC` · `Remote-friendly`
 
 </div>
 
@@ -65,7 +65,7 @@ Full Stack Developer focused on **production backends** with **NestJS** and **Ty
 
 <br />
 
-<img src="github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/allett29/allett29/main/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 <br /><br />
 
