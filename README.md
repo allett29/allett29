@@ -2,15 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,35:161b22,70:161b22,100:ff00aa&height=155&section=header&text=Alejandro%20Acosta&fontSize=44&fontColor=ffffff&animation=twinkling" width="100%" alt="Alejandro Acosta"/>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00aa,40:161b22,100:0d1117&height=48&section=footer&animation=twinkling&text=%20&fontSize=1&fontColor=0d1117" width="100%" alt=""/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="22">
+  <tr>
+    <td align="center" bgcolor="#0d1117">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Production+APIs+%7C+NestJS+%26+TypeScript+%7C+GraphQL+%26+PostgreSQL" alt="Production APIs, NestJS, TypeScript, GraphQL, PostgreSQL"/>
 
-<br />
+<br /><br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00f5ff?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://alejandro-acosta-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleacostadev)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejoav.2905@gmail.com)
 
-`Full Stack` · `Production APIs` · `Quito, EC` · `Remote-friendly`
+<br /><br />
+
+<img src="https://img.shields.io/badge/Full_Stack-00f5ff?style=flat-square&labelColor=161b22&color=0d1117" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/Production_APIs-ff00aa?style=flat-square&labelColor=161b22&color=0d1117" alt="Production APIs"/>
+<img src="https://img.shields.io/badge/Quito,_EC-8b949e?style=flat-square&labelColor=161b22&color=0d1117" alt="Quito EC"/>
+<img src="https://img.shields.io/badge/Remote--friendly-b026ff?style=flat-square&labelColor=161b22&color=0d1117" alt="Remote friendly"/>
+
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:050508&height=64&section=footer&animation=twinkling&text=%20&fontSize=1&fontColor=0d1117" width="100%" alt=""/>
 
 </div>
 
