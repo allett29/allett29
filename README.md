@@ -68,16 +68,6 @@ Full Stack Developer focused on **production backends** with **NestJS** and **Ty
 
 ---
 
-### Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="github-contribution-grid-snake-dark.svg">
-</picture>
-
----
-
 <div align="center">
 
 **Open to Full Stack roles, NestJS backends, and legacy modernization projects.**
