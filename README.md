@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Alejandro Acosta — Full Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=720&lines=Building+production+APIs+with+NestJS+%26+TypeScript;GraphQL+%26+REST+%7C+PostgreSQL+%26+microservices;Shipping+software+that+runs+in+production" alt="Role highlights"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=Production+APIs+%7C+NestJS+%26+TypeScript+%7C+GraphQL+%26+PostgreSQL" alt="Role highlights"/>
 
 <br />
 
